@@ -1,0 +1,35 @@
+- title: Student, University of British Columbia
+  from: 2016 Jan
+  to: present
+  description: "<ul>
+                  <li> B.Sc. Computer Science </li>
+                  <li> 86% cumulative average </li>
+                  <li> Dean's list </li>
+                </ul>"
+
+- title: (Co-op) Quality Assurance Analyst, Clevest Solutions Inc
+  from: 2018 Sep
+  to: 2019 Aug
+  description: "<ul>
+                  <li> Wrote Rake tasks to automate QA environment setup 
+                  which includes managing database, IIS web server, files, 
+                  configurations, etc. </li>
+                  <li> Automated test cases with C#, Selenium, and SpecFlow </li>
+                  <li> Identified software anomalies by performing sanity and smoke test </li>
+                  <li> Created detailed bug reports for developers, and worked 
+                  alongside them to troubleshoot issues </li>
+                  <li> Reviewed and verified user stories from product managers </li>
+                  <li> Wrote and updated test cases as necessary </li>
+                  <li> Created various guides for testing new features </li>
+                </ul>"
+
+- title: Finance Intern, Farringdon Group, Malaysia   
+  from: 2017 Jun
+  to: 2017 Jun
+  description: "<ul>
+                  <li> One month internship with Farringdon Group which 
+                  specializes in financial management </li>
+                  <li> Conducted manual testing on website and provided bug reports </li>
+                  <li> Shortened time to acquire financial data by utilizing API and scripts </li>
+                  <li> Researched and computed various financial data </li>
+                </ul>"
