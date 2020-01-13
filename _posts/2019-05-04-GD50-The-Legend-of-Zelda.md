@@ -74,7 +74,7 @@ When an object is `broke`, I simply set its coordinate to somewhere off-screen. 
 
 While playtesting the game, I noticed that the pot is not exactly above the player even though they have the same x position:
 
-{% include elements/figure.html image="GD50 - The Legend of Zelda/bug1.gif#center" caption="Pot is on the right side of the player" %}
+{% include elements/figure.html image="GD50 - The Legend of Zelda/bug1.png#center" caption="Pot is on the right side of the player" %}
 
 This is because the object class and the player class have different rendering function! And it can be fixed easily by making them consistent:  
 
