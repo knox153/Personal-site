@@ -11,10 +11,10 @@
   from: 2018 Sep
   to: 2019 Aug
   description: "<ul>
-                  <li> Wrote Rake tasks to automate QA environment setup 
+                  <li> Wrote <b>Rake</b> tasks to automate QA environment setup 
                   which includes managing database, IIS web server, files, 
                   configurations, etc. </li>
-                  <li> Automated test cases with C#, Selenium, and SpecFlow </li>
+                  <li> Automated test cases with <b>C#</b>, <b>Selenium</b>, and <b>SpecFlow</b> </li>
                   <li> Identified software anomalies by performing sanity and smoke test </li>
                   <li> Created detailed bug reports for developers, and worked 
                   alongside them to troubleshoot issues </li>
