@@ -63,6 +63,8 @@ plugins:
 sass:
   style: compressed
 
+google_analytics: UA-116924830-2
+
 ### Exclude from processing ###
 exclude:
   - LICENSE
