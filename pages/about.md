@@ -14,8 +14,10 @@ I started programming in high school after taking an online course, and I have n
 
 Below are my resume and some of my working experience. If you have any questions or you'd like to get in touch, feel free to contact me.
 
+{% capture resume_link %}{{ site.url }}/assets/file/resume.pdf{% endcapture %}
+
 <p class="text-center">
-{% include elements/button.html link="{{site.url}}/assets/file/resume.pdf" text="Resume" size="lg" %}
+{% include elements/button.html link=resume_link text="Resume" size="lg" %}
 </p>
 
 <div class="row">
