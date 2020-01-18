@@ -68,6 +68,7 @@ defaults:
 
 ### Plugins ###
 plugins:
+  - jekyll-default-layout
   - jekyll-gist
   - jekyll-github-metadata
   - jekyll-include-cache
