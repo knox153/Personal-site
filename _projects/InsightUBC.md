@@ -12,7 +12,7 @@ InsightUBC is a full-stack web application that provides a query system for UBC 
 - Test-driven design
     * Mocha and chai is used to create unit tests
     * Coverage test
-- Developed bank-end query engine with aggregation to retrieve information
+- Developed back-end query engine with aggregation to retrieve information
 from the data set using Typescript
 - Built RESTful API with Restify, and tested the API by creating test scripts in
 Postman
