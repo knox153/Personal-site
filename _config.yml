@@ -57,6 +57,8 @@ collections:
     output: true
     permalink: /projects/:name
 
+### Disqus ###
+disqus: knox153                          # Your website Shortname on disqus
 
 ### Defaults for collections ###
 defaults:
@@ -65,6 +67,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true 
 
 ### Plugins ###
 plugins:
