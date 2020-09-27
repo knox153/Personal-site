@@ -21,6 +21,12 @@
           {%- if html_page.path == exclude_path -%}
             {%- assign exclude = true -%}
             {%- break -%}
+          {%- elsif exclude_path contains '**' -%}
+            {%- assign match = exclude_path | remove: '**' -%}
+            {%- if html_page.path contains match -%}
+              {%- assign exclude = true -%}
+              {%- break -%}
+            {%- endif -%}
           {%- else if exclude_path contains ':num' -%}
             {%- assign temp = html_page.path -%}
             {%- assign parts = exclude_path | split: ':num' -%}
