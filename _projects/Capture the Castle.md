@@ -9,7 +9,7 @@ description: Capture your opponent's castle by taking their flag and return to y
 
 Capture the Castle is a local multiplayer (2 players) game. The first player to get the flag from their opponent's castle and return to their base win! This is a team project created for [UBC's game development course](https://www.cs.ubc.ca/~sheffa/games_course/Vsep19/index.html). The game can be downloaded at the itch.io page below!
 
-- Written in C++ and OpenGL
+- Written in **C++** and **OpenGL**
 - Implemented tile map and particle system to render a maze and particles
 - Optimized the game’s performance resulting in lower memory usage and loading time
 - Won 2nd place at the final industry juried cross-play session
