@@ -1,11 +1,13 @@
-- title: Student, University of British Columbia
+- title: Student
+  location: University of British Columbia (Vancouver, Canada)
   from: 2016 Jan
   to: present
   description: "<ul>
                   <li> B.Sc. Computer Science </li>
                 </ul>"
 
-- title: Quality Assurance Analyst Intern, Clevest Solutions Inc (Vancouver)
+- title: Quality Assurance Analyst Intern
+  location: Clevest Solutions Inc (Vancouver, Canada)
   from: 2018 Sep
   to: 2019 Aug
   description: "<ul>
@@ -19,7 +21,8 @@
                   <li> Created various guides for testing new features </li>
                 </ul>"
 
-- title: Finance Intern, Farringdon Group (Kuala Lumpur)   
+- title: Finance Intern
+  location: Farringdon Group (Kuala Lumpur, Malaysia)   
   from: 2017 Jun
   to: 2017 Jun
   description: "<ul>
