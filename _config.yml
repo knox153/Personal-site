@@ -2,7 +2,7 @@
 title               : Chee Yew Lim
 description         : >-                               # >- means to ignore newlines until "url:"
                       Hi, my name is Chee Yew Lim! 
-                      Currently exploring the unknown at University of British Columbia 
+                      Currently studying at University of British Columbia 
                       as an undergraduate.
 
 url                 : "https://cylim.net/"     # base hostname & protocol for your site (e.g. http://example.com)
@@ -25,7 +25,7 @@ author:
   image             : /assets/img/landing.gif
 # behance           : your_username
 # dribbble          : your_username
-  email             : cheeyew.lim@alumni.ubc.ca
+  email             : cheeyew.lim@outlook.com
 # facebook          : your_username
   github            : knox153
 # gitlab            : your_username

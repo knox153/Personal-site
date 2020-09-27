@@ -2,7 +2,7 @@
 name: InsightUBC
 tools: [Typescript, HTML, CSS, Node.js]
 image: 
-description: A full-stack web application providing the user with a way to query course/room information in UBC
+description: A full-stack web application to query course/room information in UBC!
 ---
 
 # InsightUBC
