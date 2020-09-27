@@ -15,7 +15,7 @@ I started programming in high school after taking an online course, and I have n
 Below are my resume and some of my working experience. If you have any questions or you'd like to get in touch, feel free to contact me. Cheers :smiley:
 
 - Email: [cheeyew.lim@outlook.com](mailto:cheeyew.lim@outlook.com)
-- Github: [github.com/knox153](github.com/knox153)
+- Github: [github.com/knox153](https://github.com/knox153)
 
 {% capture resume_link %}{{ site.url }}/assets/file/resume.pdf{% endcapture %}
 
