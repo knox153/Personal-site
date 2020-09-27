@@ -13,4 +13,4 @@ SQL Database Manager allows users to manipulate a SQL database without any knowl
 - Designed and implemented the database schema, the schema is normalized to reduce data redundancy
 
 {% include elements/figure.html image="Project/db2.png#center" caption="Application UI" %}
-{% include elements/figure.html image="Project/db1.png#center" caption="Database ER diagram" %}
+{% include elements/figure.html image="Project/db.png#center" caption="Database ER diagram" %}

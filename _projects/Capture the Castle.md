@@ -12,7 +12,7 @@ Capture the Castle is a local multiplayer (2 players) game. The first player to 
 - Written in **C++** and **OpenGL**
 - Implemented tile map and particle system to render a maze and particles
 - Optimized the game’s performance resulting in lower memory usage and loading time
-- Won 2nd place at the final industry juried cross-play session
+- Won **2nd place** at the final industry juried cross-play session
 
 <p class="text-center">
 {% include elements/button.html link="https://capturethecastle.itch.io/capture-the-castle" text="Itch.io page" size="lg" %}
