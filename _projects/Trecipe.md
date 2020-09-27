@@ -20,7 +20,7 @@ Trecipe helps travellers to discover wonderful destinations and put together the
 </p>
 
 {% include elements/figure.html image="Project/trecipe-main.png#center" caption="Bucket list page" %}
-{% include elements/figure.html image="Project/trecipe-login.png#center" caption="Login page" %}
+{% include elements/figure.html image="Project/trecipe-login.jng#center" caption="Login page" %}
 {% include elements/figure.html image="Project/trecipe-map.png#center" caption="Map page" %}
-{% include elements/figure.html image="Project/trecipe-bucket.png#center" caption="Manage Bucket page" %}
-{% include elements/figure.html image="Project/trecipe-dest.png#center" caption="Destination page" %}
+{% include elements/figure.html image="Project/trecipe-bucket.jng#center" caption="Manage Bucket page" %}
+{% include elements/figure.html image="Project/trecipe-dest.jng#center" caption="Destination page" %}
