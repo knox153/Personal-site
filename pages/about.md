@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I've been studying Computer Science at the University of British Columbia since 2016. I am currently in the co-op program, and I will be graduating with a Bachelor of Science in May 2021.
+I've been studying Computer Science at the University of British Columbia since 2016 and I am currently in the co-op program.
 
 I started programming in high school after taking an online course, and I have never stopped since then. Video games also sparked my interest in programming. In my free time, I like learning about game development :video_game:, drawing pixel art :art:, listening to EDM :headphones:.
 
